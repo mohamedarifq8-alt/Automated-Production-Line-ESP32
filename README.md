@@ -15,7 +15,7 @@ A special thanks to the following YouTube tutorial which provided great assistan
 * **Department:** Electricity Dep, Computer and Control
 * **Year:** Fourth Year, First Semester (2024)
 * **Author:** Mohammed Arif
-* **Supervisors:** Dr. Farouq Al-Faheedi & Eng. Omair Al-Baadani
+
 
 ## Key Features & Workflow
 1. **Conveyor System:** A DC motor drives the conveyor belt, which is controlled by a 5V relay.
